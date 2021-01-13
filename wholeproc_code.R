@@ -1,5 +1,5 @@
 load("dati_bbstest.RData")
-source("modes.functions.r")
+source("modes_functions.R")
 library(ks); library(ClusterR);library(snow); library(snowfall); library(ggplot2)
 rm(hgridbs)
 #####################
